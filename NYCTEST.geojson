@@ -7,6 +7,7 @@
         "marker-color": "#006600",
         "marker-size": "medium",
         "marker-symbol": "golf",
+        "popupContent": "This is where the Rockies play!"
         "Course": "18 Mile Creek Golf Course",
         "Club": "18 Mile Creek Golf Course",
         "Address": "6374 Boston State Rd",
