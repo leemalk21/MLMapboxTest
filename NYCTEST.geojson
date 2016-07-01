@@ -6,6 +6,7 @@
       "properties": {
         "Course": "18 Mile Creek Golf Course",
         "Club": "18 Mile Creek Golf Course",
+        'marker-color': '#f86767',
         "Address": "6374 Boston State Rd",
         "City": "Hamburg",
         "State": "NY",
