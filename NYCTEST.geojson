@@ -1,0 +1,464 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "18 Mile Creek Golf Course",
+        "Club": "18 Mile Creek Golf Course",
+        "Address": "6374 Boston State Rd",
+        "City": "Hamburg",
+        "State": "NY",
+        "Zip Code": 14075,
+        "Country": "United States",
+        "Phone": "(716) 648-4410",
+        "Website": "http://www.hamburg-youth-rec-seniors.com/18-mile-creek-golf-course.html",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$24 ",
+        "Designer": "Grever & Ward",
+        "Established": 1997,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.810583,
+          42.71104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Adams Country Club",
+        "Club": "Adams Country Club",
+        "Address": "10700 US-11",
+        "City": "Adams",
+        "State": "NY",
+        "Zip Code": 13605,
+        "Country": "United States",
+        "Phone": "(315) 232-4842",
+        "Website": "http://adamscountryclub.com",
+        "Type": "Public",
+        "Holes": 9,
+        "Price": "$30 ",
+        "Designer": "Al Thomas",
+        "Established": 1959,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.021848,
+          43.823224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Airway Meadows Golf Course",
+        "Club": "Airway Meadows Golf Course",
+        "Address": "262 Brownville Rd",
+        "City": "Gansevoort",
+        "State": "NY",
+        "Zip Code": 12831,
+        "Country": "United States",
+        "Phone": "(518) 792-4144",
+        "Website": "http://www.airwaymeadowsgolf.com",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$32 ",
+        "Designer": "James Heber",
+        "Established": 1998,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.634453,
+          43.180938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Albany Country Club",
+        "Club": "Albany Country Club",
+        "Address": "300 Wormer Rd",
+        "City": "Voorheesville",
+        "State": "NY",
+        "Zip Code": 12186,
+        "Country": "United States",
+        "Phone": "(518) 765-2851",
+        "Website": "http://www.albanycc.cc",
+        "Type": "Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Robert Trent Jones",
+        "Established": 1963,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.921454,
+          42.680593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Allegheny Hills Golf Course",
+        "Club": "Allegheny Hills Golf Course",
+        "Address": "9622 Hardys Corners Rd",
+        "City": "Cuba",
+        "State": "NY",
+        "Zip Code": 14727,
+        "Country": "United States",
+        "Phone": "(585) 437-2163",
+        "Website": "http://www.alleghenyhillsgolfcourse.com",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$25 ",
+        "Designer": "Henry Bruckert",
+        "Established": 1960,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.288037,
+          42.364814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Amsterdam Municipal Golf Course",
+        "Club": "Amsterdam Municipal Golf Course",
+        "Address": "Upper Van Dyke Ave",
+        "City": "Amsterdam",
+        "State": "NY",
+        "Zip Code": 12010,
+        "Country": "United States",
+        "Phone": "(518) 842-6480",
+        "Website": "http://www.amsterdammuni.com",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$31 ",
+        "Designer": "Robert Trent Jones",
+        "Established": 1938,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.194897,
+          42.961431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Anglebrook Country Club",
+        "Club": "Anglebrook Country Club",
+        "Address": "100 US-202",
+        "City": "Lincolndale",
+        "State": "NY",
+        "Zip Code": 10540,
+        "Country": "United States",
+        "Phone": "(914) 245-5588",
+        "Website": "https://www.anglebrookgc.com",
+        "Type": "Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Robert Trent Jones",
+        "Established": 1998,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.726,
+          41.316856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Apawamis Club",
+        "Club": "Apawamis Club",
+        "Address": "2 Club Rd",
+        "City": "Rye",
+        "State": "NY",
+        "Zip Code": 10580,
+        "Country": "United States",
+        "Phone": "(914) 967-2100",
+        "Website": "http://www.apawamis.org",
+        "Type": "Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Willie Dunn",
+        "Established": 1890,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.689136,
+          40.987505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Apple Greens Golf Course",
+        "Club": "Apple Greens Golf Course - East",
+        "Address": "161 South St",
+        "City": "Highland",
+        "State": "NY",
+        "Zip Code": 12528,
+        "Country": "United States",
+        "Phone": "(845) 883-5500",
+        "Website": "http://www.applegreens.com",
+        "Type": "Public",
+        "Holes": 9,
+        "Price": "$53 ",
+        "Designer": "John Magaletta",
+        "Established": 2004,
+        "27 Hole": "Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04897,
+          41.720081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Apple Greens Golf Course",
+        "Club": "Apple Greens Golf Course - One",
+        "Address": "161 South St",
+        "City": "Highland",
+        "State": "NY",
+        "Zip Code": 12528,
+        "Country": "United States",
+        "Phone": "(845) 883-5500",
+        "Website": "http://www.applegreens.com",
+        "Type": "Public",
+        "Holes": 9,
+        "Price": "$53 ",
+        "Designer": "John Magaletta",
+        "Established": 1995,
+        "27 Hole": "Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04897,
+          41.720081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Apple Greens Golf Course",
+        "Club": "Apple Greens Golf Course - Two",
+        "Address": "161 South St",
+        "City": "Highland",
+        "State": "NY",
+        "Zip Code": 12528,
+        "Country": "United States",
+        "Phone": "(845) 883-5500",
+        "Website": "http://www.applegreens.com",
+        "Type": "Public",
+        "Holes": 9,
+        "Price": "$53 ",
+        "Designer": "John Magaletta",
+        "Established": 1995,
+        "27 Hole": "Y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04897,
+          41.720081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Ardsley Country Club",
+        "Club": "Ardsley Country Club",
+        "Address": "North Mountain Drive",
+        "City": "Ardsley-On-Hudson",
+        "State": "NY",
+        "Zip Code": 10503,
+        "Country": "United States",
+        "Phone": "(914) 591-8150",
+        "Website": "http://www.ardsleycc.org",
+        "Type": "Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Willie Dunn",
+        "Established": 1895,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85434,
+          41.025793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Arrowhead Golf Club",
+        "Club": "Arrowhead Golf Club",
+        "Address": "655 Gallup Rd",
+        "City": "Spencerport",
+        "State": "NY",
+        "Zip Code": 14559,
+        "Country": "United States",
+        "Phone": "(585) 352-5500",
+        "Website": "http://www.arrowheadgc.org",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$16 ",
+        "Designer": "Richard Wholers",
+        "Established": 1973,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.882044,
+          43.202559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Arrowhead Golf Club",
+        "Club": "Arrowhead Golf Club",
+        "Address": "12292 Clarence Center Rd",
+        "City": "Akron",
+        "State": "NY",
+        "Zip Code": 14001,
+        "Country": "United States",
+        "Phone": "(716) 542-4653",
+        "Website": "http://www.arrowheadgcwny.com",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$50 ",
+        "Designer": "Scott Witter",
+        "Established": 2003,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.527644,
+          43.01387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Atlantic Golf Club",
+        "Club": "Atlantic Golf Club",
+        "Address": "1040 Scuttle Hole Rd",
+        "City": "Bridgehampton",
+        "State": "NY",
+        "Zip Code": 11932,
+        "Country": "United States",
+        "Phone": "(631) 537-1818",
+        "Website": "https://www.atlanticgolf.org",
+        "Type": "Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Rees Jones",
+        "Established": 1992,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.336064,
+          40.947714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Attica Golf Club",
+        "Club": "Attica Golf Club",
+        "Address": "95 Bunnell St",
+        "City": "Attica",
+        "State": "NY",
+        "Zip Code": 14011,
+        "Country": "United States",
+        "Phone": "(585) 591-0133",
+        "Website": "http://www.atticagolfclub.com",
+        "Type": "Semi-Private",
+        "Holes": 18,
+        "Price": "N/A",
+        "Designer": "Harry Heit",
+        "Established": 1932,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2928,
+          42.868437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Course": "Audubon Golf Course",
+        "Club": "Audubon Golf Course",
+        "Address": "500 Maple Rd",
+        "City": "Amherst",
+        "State": "NY",
+        "Zip Code": 14221,
+        "Country": "United States",
+        "Phone": "(716) 631-7139",
+        "Website": "http://www.audubonamherst.com",
+        "Type": "Public",
+        "Holes": 18,
+        "Price": "$24 ",
+        "Designer": "William Harries",
+        "Established": 1942,
+        "27 Hole": "N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.767412,
+          42.992975
+        ]
+      }
+    }
+  ]
+}
